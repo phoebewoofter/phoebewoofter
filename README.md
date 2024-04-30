@@ -1,8 +1,7 @@
 👋 Hi, I’m **@phoebewoofter**
 - 🎮 I’m interested in *gamification* for educational purposes (currenly mapping out a game to help employees better understand their benefits during open enrollment).
 - 🌱 I’m learning `JavaScript` and `C#`.
-- 💞️ I’m not looking to collaborate yet, but hopefully will once I have a more solid foundation.
-- 📫 How to reach me: You can easily find me on Twitter/X. No hate speech or spam tolerated.
+- 📫 Find me on [LinkedIn](www.linkedin.com/in/phoebe-woofter-a677b01a6).
 - 😄 Pronouns: *they/them*
 - ⛷️ Fun fact: I skate ski competitively (pretend pro haha).
 
