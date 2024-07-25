@@ -3,7 +3,7 @@
 - 🌱 I’m learning `JavaScript` and `Python`.
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/phoebe-woofter-a677b01a6).
 - 😄 Pronouns: *they/them*
-- ⛷️ Fun fact: I skate ski competitively (pretend pro haha).
+- ⛷️ Fun fact: I skate ski and cycle competitively (pretend pro haha).
 
 <!---
 phoebewoofter/phoebewoofter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
