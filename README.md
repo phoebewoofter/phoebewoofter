@@ -9,6 +9,6 @@ On [LinkedIn](https://www.linkedin.com/in/phoebe-woofter-a677b01a6).
 *they/them*
 ## ⛷️ Fun fact
 I skate ski and cycle competitively (pretend pro haha).
-## Skills:
+## Skills
 <img style="text-align: right;" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vscode,git,github&perline=3">
 
