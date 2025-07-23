@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **@phoebewoofter**
 ## 🎮 Interested in
-*Gamification* for educational purposes (currently mapping out a game to help employees better understand their benefits during open enrollment).
+*Gamification* for educational purposes and finding solutions to everyday problems (currently building an app that sends you push notifications when your houseplants need water or feeding with hopefully accurate algorithms specific to the plants, location, weather, etc.).
 ## 🌱 Learning 
 `TypeScript` and `Python`
 ## 📫 Find me
