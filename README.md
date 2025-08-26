@@ -10,5 +10,5 @@ On [LinkedIn](https://www.linkedin.com/in/phoebe-woofter-a677b01a6).
 ## ⛷️ Fun fact
 I skate ski, cycle and run. Excited for my upcoming events: Amsterdam Marathon & Canadian Birkie.
 ## ⚡️ Skills
-<img style="text-align: right;" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vscode,git,github,jest&perline=3">
+<img style="text-align: right;" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,vscode,git,github,jest&perline=3">
 
