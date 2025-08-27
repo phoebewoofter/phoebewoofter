@@ -4,7 +4,7 @@ an aspiring Software Engineer with a strong foundation in writing, analytical th
 *Gamification* for educational purposes and finding solutions to everyday problems.
 ## 🌱 Learning 
 `TypeScript`
-## 💻 In Progress Projects
+## 💻 In progress projects
 1. *Sprout Signal* 
 <br>An app that sends you push notifications when your houseplants need watering or other attention. 
 <br>Tech: React Native, JavaScript, SQLite
